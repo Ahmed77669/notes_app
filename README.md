@@ -39,3 +39,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 
+### Don't forget to setup your apiKey in firbase_options and google-service.json
+
+
